@@ -15,10 +15,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="jonathan-marchal-djuU2_k3F3E-unsplash" translatesAutoresizingMaskIntoConstraints="NO" id="Zqg-W8-jS2">
-                                <rect key="frame" x="20" y="79" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="nasa" translatesAutoresizingMaskIntoConstraints="NO" id="i29-7d-k6b">
                                 <rect key="frame" x="20" y="244" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -41,7 +37,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="jonathan-marchal-djuU2_k3F3E-unsplash" width="4160" height="6240"/>
         <image name="nasa" width="7857" height="7462"/>
     </resources>
 </document>
